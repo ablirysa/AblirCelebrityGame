@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d122685-a631-4b37-a4bb-21ea3e24ea1c" name="Changes" comment="" />
+    <list default="true" id="3d122685-a631-4b37-a4bb-21ea3e24ea1c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AblirCelebrityGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Celebrity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CelebrityFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CelebrityGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CelebrityPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CelebrityRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StartPanel.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NxkjnRAJ5D3UFlpVGhAP9hVnfZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +41,29 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\BT_3W2_08\IdeaProjects\AblirCelebrityGame\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CelebrityRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CelebrityRunner" />
+      <module name="AblirCelebrityGame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CelebrityRunner" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="3d122685-a631-4b37-a4bb-21ea3e24ea1c" name="Changes" comment="" />
       <created>1680613260610</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
